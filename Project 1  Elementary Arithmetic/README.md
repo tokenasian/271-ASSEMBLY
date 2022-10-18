@@ -13,14 +13,21 @@ Calculate and display the sum and differences: (A+B, A-B, A+C, A-C, B+C, B-C, A+
 Display a closing message.
 
 Program Requirements
-The program must be fully documented and laid out according to the CS271 Style Guide. This includes a complete header block for identification, description, etc., and a comment outline to explain each section of code.
+The program must be fully documented and laid out according to the CS271 Style Guide. This includes a complete header block for identification, 
+
+description, etc., and a comment outline to explain each section of code.
 
 
 The main procedure must be divided into logical sections:
+
 introduction
+
 get the data
+
 calculate the required values
+
 display the results
+
 say goodbye
 
 The results of calculations must be stored in named variables before being displayed.
